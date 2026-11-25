@@ -6,6 +6,15 @@ A Research and Development Initiative by Kreative Solutions LLC
 
 Project Lead: Joshua I. Jones
 
+## Explore Angel AI
+
+| Section | Description |
+|---|---|
+| [Technical Demonstrations](./demonstrations/) | Hardware integration, prototype demonstrations, and engineering capabilities. |
+| [Visual Documentation](./images/) | Approved prototype photographs, screenshots, and development visuals. |
+| [Research and Methodology](./research/) | Research objectives, scientific questions, and proposed experimental methods. |
+| [Technical Documentation](./documentation/) | Engineering disciplines, development technologies, and technical practices. |
+| [Development Milestones](./development-milestones/) | Engineering achievements, development progress, and future research roadmap. |
 Project Overview
 
 Angel AI is an experimental wearable intelligent assistant designed to explore the relationship between artificial intelligence, human-computer interaction, environmental awareness, and human performance.
